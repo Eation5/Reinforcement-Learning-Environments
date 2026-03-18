@@ -1,1 +1,1 @@
-Commit on 2025-08-25T16:46:12Z: Adjust learning rate decay schedule
+Commit on 2025-08-25T12:06:51Z: Streamline Docker containers for faster deployment
