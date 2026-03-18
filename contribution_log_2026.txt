@@ -1,1 +1,1 @@
-Commit on 2026-02-26T20:25:47Z: Update model architecture for improved accuracy
+Commit on 2026-02-26T16:23:51Z: Update README with latest research findings
