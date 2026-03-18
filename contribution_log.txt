@@ -1,1 +1,1 @@
-Commit on 2025-12-10T13:53:52Z: Update documentation and usage examples
+Commit on 2025-12-10T15:02:04Z: Improve logging and error handling
