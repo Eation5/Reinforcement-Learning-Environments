@@ -1,1 +1,1 @@
-Commit on 2024-12-17T19:29:29Z: Clean up unused code and comments
+Commit on 2024-12-17T20:52:58Z: Adjust learning rate scheduler
